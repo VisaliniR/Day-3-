@@ -1,0 +1,17 @@
+body{
+    text-align: center;
+    background-color: rgb(164, 157, 225);
+}
+button{
+    width: 130px;
+    height: 68px;
+    background-color: aquamarine;
+    color: white;
+    font-size: 26px;
+    border-radius: 70px;
+}
+button:hover{
+    background-color: white;
+    color: aquamarine;
+    cursor: pointer;
+}
